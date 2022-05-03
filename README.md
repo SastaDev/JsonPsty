@@ -4,7 +4,7 @@ A wrapper for <a href='https://json.psty.io'>json.psty.io</a>
 Use it as storing things, or as database.
 
 <p><b>Orginal site:</b> https://json.psty.io</p>
-<p><b>Original Documention:</b> https://json.psty.io/api_documentation</p>
+<p><b>Original documention:</b> https://json.psty.io/api_documentation</p>
 
 <h5>Current/Latest Version: 1.0 (03 May, 2022 || 03:54 PM)</h5>
 
