@@ -9,11 +9,11 @@ Use it as storing things, or as database.
 <h5>Current/Latest Version: 1.0 (03 May, 2022 || 03:54 PM)</h5>
 
 # Generating Api-Key
-Go to https://json.psty.io and login or sign up, and then go to bottom part of https://json.psty.io/account and take your [`api-key`] from there.
+Go to https://json.psty.io and login or sign up, and then go to bottom part of https://json.psty.io/account and take your `api-key` from there.
 
 # Examples
 Check this [`examples.py`](https://github.com/SastaDev/JsonPsty/blob/main/examples.py) for all available methods and their examples.
-
+<a href='https://github.com/SastaDev/JsonPsty/blob/main/examples.py'>`j`</a>
 # Initializing Client
 ```py
 from jsonpsty import JsonPstyClient
