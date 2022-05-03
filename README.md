@@ -12,8 +12,8 @@ Use it as storing things, or as database.
 Go to https://json.psty.io and login or sign up, and then go to bottom part of https://json.psty.io/account and take your `api-key` from there.
 
 # Examples
-Check this [`examples.py`](https://github.com/SastaDev/JsonPsty/blob/main/examples.py) for all available methods and their examples.
-<a href='https://github.com/SastaDev/JsonPsty/blob/main/examples.py'>`j`</a>
+Check this <a href='https://github.com/SastaDev/JsonPsty/blob/main/examples.py'>`examples.py`</a> for all available methods and their examples.
+
 # Initializing Client
 ```py
 from jsonpsty import JsonPstyClient
