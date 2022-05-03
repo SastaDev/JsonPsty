@@ -14,7 +14,7 @@ Go to https://json.psty.io and login or sign up, and then go to bottom part of h
 # Examples
 Check this [`examples.py`](https://github.com/SastaDev/JsonPsty/blob/main/examples.py) for all available methods and their examples.
 
-# Initaizling Client
+# Initializing Client
 ```py
 from jsonpsty import JsonPstyClient
 
