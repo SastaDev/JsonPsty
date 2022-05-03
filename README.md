@@ -12,8 +12,7 @@ Use it as storing things, or as database.
 Go to https://json.psty.io and login or sign up, and then go to bottom part of https://json.psty.io/account and take your api-key from there.
 
 # Examples
-Check root directory of <a href='https://github.com/SastaDev/JsonPsty'>this repository</a> and open examples.py for all available methods and examples.
-Or <a href='https://github.com/SastaDev/JsonPsty/blob/main/examples.py'>Click here</a>.
+Check this ['examples.py'](https://github.com/SastaDev/JsonPsty/blob/main/examples.py) for all available methods and their examples.
 
 # Initaizling Client
 ```py
@@ -25,4 +24,37 @@ client = JsonPstyClient(api_key=api_key)
 ```
 
 # Available Methods
-<h1>Getting A Single Store</h1>
+<h4>Getting A Single Store</h4>
+```py
+get_store = client.getStore('lang')
+print(get_store)
+```
+
+<h4>Creating A Single Store</h4>
+```py
+create_store = client.createStore('store_name')
+print(create_store)
+```
+
+<h4>Updating A Single Store<\h4>
+```py
+update_store = client.updateStore('lang', data={"key": "value"})
+print(update_store)
+```
+
+<h4>Deleting A Store</h4>
+```py
+delete_store = client.deleteStore('store_name')
+print(delete_store)
+```
+
+<h4>Getting All Stores</h4>
+```py
+get_all_stores = client.getAllStores()
+print(get_all_stores)
+```
+
+
+# Last Words
+For more help, queries, contact us on our Telegram Group.
+<b>Link:</b> https://telegram.dog/HelpSupportChat
