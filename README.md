@@ -16,14 +16,13 @@ Check root directory of <a href='https://github.com/SastaDev/JsonPsty'>this repo
 Or <a href='https://github.com/SastaDev/JsonPsty/blob/main/examples.py'>Click here</a>.
 
 # Initaizling Client
-<code>
+```
 from jsonpsty import JsonPstyClient
 
 api_key = '' # Take your Api-Key from https://json.psty.io/signup
 
 client = JsonPstyClient(api_key=api_key)
-
-</code>
+```
 
 # Available Methods
 <h1>Getting A Single Store</h1>
