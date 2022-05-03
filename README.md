@@ -65,3 +65,4 @@ print(get_all_stores)
 # Last Words
 <p>For more help, queries, contact us on our Telegram Group.</p>
 <b>Link:</b> https://telegram.dog/HelpSupportChat
+<p><b>Updates In:</b> https://telegram.dog/SastaNetwork Telegram Channel.</p>
