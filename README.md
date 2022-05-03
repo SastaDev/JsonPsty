@@ -61,5 +61,5 @@ print(get_all_stores)
 
 
 # Last Words
-For more help, queries, contact us on our Telegram Group.
+<p>For more help, queries, contact us on our Telegram Group.</p>
 <b>Link:</b> https://telegram.dog/HelpSupportChat
