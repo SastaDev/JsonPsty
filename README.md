@@ -1,7 +1,7 @@
 # JsonPsty
 
 A wrapper for <a href='https://json.psty.io'>json.psty.io</a>
-Use it as storing things, or database.
+Use it as storing things, or as database.
 
 # Generating Api-Key
 Go to https://json.psty.io and login or sign up, and then go to bottom part of https://json.psty.io/account and take your api-key from there.
