@@ -1,5 +1,4 @@
 # JsonPsty
-
 A wrapper for <a href='https://json.psty.io'>json.psty.io</a>
 Use it as storing things, or as database.
 
