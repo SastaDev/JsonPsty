@@ -6,7 +6,9 @@ Use it as storing things, or as database.
 <p><b>Orginal site:</b> https://json.psty.io</p>
 <p><b>Original documention:</b> https://json.psty.io/api_documentation</p>
 
-<h5>Current/Latest Version: 1.0 (03 May, 2022 || 03:54 PM)</h5>
+Special Thanks To <a href='https://github.com/M4cs'>`M4cs`</a> For This Wonderful Site For JSON!
+
+<h5>Current/Latest Version: 1.0 (03 May, 2022 || 04:29 PM)</h5>
 
 # Generating Api-Key
 Go to https://json.psty.io and login or sign up, and then go to bottom part of https://json.psty.io/account and take your `api-key` from there.
