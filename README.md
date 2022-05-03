@@ -36,7 +36,7 @@ create_store = client.createStore('store_name')
 print(create_store)
 ```
 
-<h4>Updating A Single Store<\h4>
+<h4>Updating A Single Store</h4>
 ```py
 update_store = client.updateStore('lang', data={"key": "value"})
 print(update_store)
