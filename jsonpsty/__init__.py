@@ -4,8 +4,8 @@ try:
 except Exception as e:
     if e == 'No module named \'requests\'':
         print('The following module requests is not installed.\nInstall it and try again later.')
-    elif e == 'No module named \'requests\'':
-        print('The following module requests is not installed.\nInstall it and try again later.')
+    elif e == 'No module named \'json\'':
+        print('The following module json is not installed.\nInstall it and try again later.')
     else:
         print(f'ERROR: {e}')
 
